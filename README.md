@@ -47,7 +47,7 @@
 
 ## sample7
 ![sample7](https://user-images.githubusercontent.com/65575481/82449011-83f0b500-9ae5-11ea-9468-29662e5633a6.PNG)
-- up & down 게임입니다.
+- 업 & 다운 게임입니다.
 - 0~9까지 임의의 숫자를 맞추는 게임입니다.
 - 숫자키를 누르고 입력 버튼을 누르면서 정답을 맞출 수 있습니다.
 - start 버튼과 restart 버튼으로 게임을 시작할 수 있습니다.
